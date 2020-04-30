@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1010727753441",
+    "firebase_url": "https://lastlogin-52a32.firebaseio.com",
+    "project_id": "lastlogin-52a32",
+    "storage_bucket": "lastlogin-52a32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010727753441:android:c46bab40786be4bec709a0",
+        "android_client_info": {
+          "package_name": "com.example.lastlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010727753441-h8ofs3u5l1l473omv7lv2h16p263fd81.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lastlogin",
+            "certificate_hash": "71d8b2ff13da2e712b17c60512b553f6380c3a63"
+          }
+        },
+        {
+          "client_id": "1010727753441-2p3g0oojl65adlfl0ktcj7f3svj2gpkd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnoC5EV4LumwW0lwpIMgWg_LoKfEU6iE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010727753441-2p3g0oojl65adlfl0ktcj7f3svj2gpkd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
